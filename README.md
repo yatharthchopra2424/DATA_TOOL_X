@@ -1,68 +1,78 @@
-📂 CSV & Data Inspector with Open Source LLM 🚀
-🌟 Overview
+# 📂 CSV & Data Inspector with Open Source LLM 🚀
+
+## 🌟 Overview
 CSV & Data Inspector with Open Source LLM is a powerful, AI-enhanced Streamlit application that allows users to upload, explore, clean, and analyze datasets effortlessly. It leverages an open-source language model to provide intelligent insights, making data exploration seamless and interactive.
 
-💥💥💥 TRY IT LIVE NOW! 💥💥💥
-<div align="center"> <a href="https://datatoolx-yc-pk-app.streamlit.app/" target="_blank"> <img src="https://img.shields.io/badge/TRY%20IT%20LIVE-CLICK%20HERE-brightgreen?style=for-the-badge" alt="Try It Live"/> </a> </div>
-🎯 Use Cases
-✅ Data Scientists & Analysts - Quickly clean and analyze large datasets before modeling.
-✅ Students & Researchers - Gain AI-assisted insights and identify key patterns in data.
-✅ Business Professionals - Easily visualize trends and remove inconsistencies in sales or customer data.
-✅ Developers - Test and preprocess datasets before integration into applications.
-🔥 Features
-📤 Upload & Process Data
+## 💥💥💥 TRY IT LIVE NOW! 💥💥💥
+<div align="center">
+  <a href="https://datatoolx-yc-pk-app.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/TRY%20IT%20LIVE-CLICK%20HERE-brightgreen?style=for-the-badge" alt="Try It Live"/>
+  </a>
+</div>
 
-Supports CSV, Excel (.xlsx, .xls), and JSON up to 200MB 📁
-Handles various encodings for seamless file reading 📜
-📊 Data Exploration & Visualization
+## 🎯 Use Cases
+✅ **Data Scientists & Analysts** - Quickly clean and analyze large datasets before modeling.<br>
+✅ **Students & Researchers** - Gain AI-assisted insights and identify key patterns in data.<br>
+✅ **Business Professionals** - Easily visualize trends and remove inconsistencies in sales or customer data.<br>
+✅ **Developers** - Test and preprocess datasets before integration into applications.<br>
 
-Sample preview of 100 random rows 🔍
-Displays dataset shape, column types, and missing values 📏
-Interactive charts (histograms & bar charts) powered by Plotly 📈
-🛠 Data Cleaning Tools
+## 🔥 Features
+### 📤 Upload & Process Data
+- Supports **CSV, Excel (.xlsx, .xls), and JSON** up to **200MB** 📁
+- Handles **various encodings** for seamless file reading 📜
 
-Rename columns ✏️
-Change data types (int, float, object, datetime) 🔄
-Remove selected columns 🚮
-Filter and remove rows based on conditions ⚡
-Handle missing values (Mean, Median, Mode, or drop rows) ⚠️
-Detect and visualize outliers 📉
-Undo last changes to revert modifications ⏪
-🤖 AI-Powered Data Insights
+### 📊 Data Exploration & Visualization
+- Sample preview of **100 random rows** 🔍
+- Displays **dataset shape, column types, and missing values** 📏
+- **Interactive charts** (histograms & bar charts) powered by **Plotly** 📈
 
-Query your data using natural language 🎤
-Get context-aware responses based on selected columns 🧠
-Toggle internal process visibility 🔄
-⬇️ Download Cleaned Data
+### 🛠 Data Cleaning Tools
+- Rename columns ✏️
+- Change data types (int, float, object, datetime) 🔄
+- Remove selected columns 🚮
+- Filter and remove rows based on conditions ⚡
+- Handle missing values (Mean, Median, Mode, or drop rows) ⚠️
+- Detect and visualize **outliers** 📉
+- **Undo last changes** to revert modifications ⏪
 
-Export and download the cleaned dataset as a CSV file 📥
-🛠 Technology Stack
-Frontend & Backend: Streamlit
-Data Processing: Pandas, NumPy
-Visualization: Plotly
-AI Integration: Open Source LLM
-Environment Management: Python-dotenv
-📝 Usage Guide
-1️⃣ Upload a dataset (CSV, Excel, or JSON) via the sidebar.
-2️⃣ Navigate between sections:
+### 🤖 AI-Powered Data Insights
+- **Query your data** using natural language 🎤
+- Get **context-aware responses** based on selected columns 🧠
+- Toggle **internal process visibility** 🔄
 
-📂 Upload & Preview: Explore the dataset structure.
-🛠 Data Cleaning: Perform cleaning operations.
-🤖 AI-Powered Data Insights: Get smart, context-aware insights on your data.
-3️⃣ Download your cleaned dataset once you're done! ✅
-👨‍💻 About Me
-Hey there! I’m Yatharth Chopra 👋, a passionate B.Tech CSE (Data Science) student with a love for AI, data engineering, and problem-solving. I built this project to help people work with data more efficiently and to make data insights accessible for everyone! 🚀
+### ⬇️ Download Cleaned Data
+- Export and **download the cleaned dataset** as a CSV file 📥
 
-📧 Email: yc9891966@gmail.com
-📱 Mobile: +91 9810354459
-📷 Instagram: @chopra.yatharth
-💼 LinkedIn: Yatharth Chopra
+## 🛠 Technology Stack
+- **Frontend & Backend:** [Streamlit](https://streamlit.io/)
+- **Data Processing:** [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
+- **Visualization:** [Plotly](https://plotly.com/)
+- **AI Integration:** Open Source LLM
+- **Environment Management:** [Python-dotenv](https://pypi.org/project/python-dotenv/)
 
-💡 Feel free to reach out! I welcome your feedback and suggestions.
+## 📝 Usage Guide
+1️⃣ **Upload a dataset** (CSV, Excel, or JSON) via the sidebar.<br>
+2️⃣ **Navigate between sections:**
+   - **📂 Upload & Preview:** Explore the dataset structure.
+   - **🛠 Data Cleaning:** Perform cleaning operations.
+   - **🤖 AI-Powered Data Insights:** Get smart, context-aware insights on your data.<br>
+3️⃣ **Download your cleaned dataset** once you're done! ✅
 
-💬 Feedback & Reviews
+## 👨‍💻 About Me
+Hey there! I’m **Yatharth Chopra** 👋, a passionate **B.Tech CSE (Data Science)** student with a love for **AI, data engineering, and problem-solving**. I built this project to help people work with data more efficiently and to make data insights accessible for everyone! 🚀
+
+📧 **Email:** yc9891966@gmail.com  
+📱 **Mobile:** +91 9810354459  
+📷 **Instagram:** [@chopra.yatharth](https://www.instagram.com/chopra.yatharth/)  
+💼 **LinkedIn:** [Yatharth Chopra](https://www.linkedin.com/in/yatharth-chopra--/)
+
+💡 **Feel free to reach out!** I welcome your feedback and suggestions.
+
+## 💬 Feedback & Reviews
 I’d love to hear your thoughts on this app! 🌟
 
-📩 Email or DM on Instagram
-📝 Review on LinkedIn
-Let’s make data handling smarter together! 🚀🔥
+📩 **Email or DM on Instagram**  
+📝 **Review on [LinkedIn](https://www.linkedin.com/in/yatharth-chopra--/)**  
+
+**Let’s make data handling smarter together! 🚀🔥**
+
