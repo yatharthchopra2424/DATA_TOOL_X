@@ -1,0 +1,10 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+openpyxl==3.1.5
+groq>=0.9.0  # Use the latest version available
+google-generativeai==0.8.2  # Google Gemini SDK
+python-dotenv==1.0.1  # For loading environment variables from .env
+httpx==0.27.2  # Pin to a version that supports 'proxies'
+xlrd==2.0.1
